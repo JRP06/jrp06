@@ -1,5 +1,8 @@
 ## Hi there 👋
+My name is Josue, I'm currently studying computer science at UNT interested in algorithms and math. 
 
+- 🔭 I’m currently working on building a mobile application for semi-truck drivers that will help them easily find repair mechanics...
+- 🌱 I’m currently learning about deep neural networks/Algorithms/probabilities ...
 <!--
 **JRP06/jrp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
