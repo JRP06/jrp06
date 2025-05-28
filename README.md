@@ -2,7 +2,6 @@
 My name is Josue, I'm currently studying computer science at UNT interested in building full-stack applications. 
 
 - 🔭 I’m currently working on building a mobile application for semi-truck drivers that will help them easily find repair mechanics. And also building a logistics platform that connects construction contractors with independent dump truck drivers. 
-- 🌱 I’m currently learning  about front-end development...
 <!--
 **JRP06/jrp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
