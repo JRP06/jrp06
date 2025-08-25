@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Josue, I'm currently studying computer science at UNT interested in building full-stack applications. 
+My name is Josue, I'm currently studying Computer Science at University of North Texas, interested in Quant/Algo development, AI/ML Engineering, Software Engineernig/Backend Systems. 
 
 - 🔭 I’m currently working on major projects,
 - (1)  building a mobile application for semi-truck drivers that will help them easily find repair mechanics.
