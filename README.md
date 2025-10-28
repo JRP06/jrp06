@@ -1,16 +1,15 @@
 ## Hi there 👋
-My name is Josue, I'm currently studying Computer Science at University of North Texas, interested in Quant/Algo development, AI/ML Engineering, Software Engineernig/Backend Systems. 
+I'm Josue – a Senior majoring in Computer Science at University of North Texas. I'm passionate about Software Engineernig, Backend Systems, AI/ML and Quantitative development. 
 
-- 🔭 I’m currently working on major projects,
-- (1)  building a mobile application for semi-truck drivers that will help them easily find repair mechanics.
-- (2) building a logistics platform that connects construction contractors with independent dump truck drivers. 
+- 🔭 After spending 8 years in the trucking industry, I transitioned into tech to create software that solves real-world problems truck drivers face. I’m currently developing a mobile application that connects diesel mechanics and truck drivers.
+- 🌱 I’m expanding my skills in machine learning and quantitative systems development, combining programming, math and data to build intelligent, data-driven solutions.
 <!--
 **JRP06/jrp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
