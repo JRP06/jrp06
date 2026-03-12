@@ -1,8 +1,5 @@
 ## Hi there 👋
-I'm Josue – a Senior majoring in Computer Science at University of North Texas. I'm passionate about Software Engineernig, Backend Systems, AI/ML and Quantitative development. 
-
-- 🔭 After spending 8 years in the trucking industry, I transitioned into tech to create software that solves real-world problems truck drivers face. I’m currently developing a mobile application that connects diesel mechanics and truck drivers.
-- 🌱 I’m expanding my skills in machine learning and quantitative systems development, combining programming, math and data to build intelligent, data-driven solutions.
+Computer Science senior at UNT graduating Summer 2026, focused on backend development and distributed systems. I build things — from Kafka-based financial transaction systems to AI-powered health applications. Passionate about the intersection of software engineering and machine learning, with long term interests in quantitative systems and computer vision. Currently seeking SWE opportunities to grow as an engineer while continuing to explore ML deeply.
 <!--
 **JRP06/jrp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
