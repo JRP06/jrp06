@@ -1,5 +1,5 @@
 ## Hi there 👋
-Computer Science senior at UNT graduating Summer 2026, focused on backend development and distributed systems. I build things — from Kafka-based financial transaction systems to AI-powered health applications. Passionate about the intersection of software engineering and machine learning, with long term interests in quantitative systems and computer vision. Currently seeking SWE opportunities to grow as an engineer while continuing to explore ML deeply.
+Computer Science senior at UNT graduating Summer 2026, focused on backend development and distributed systems. I build things — from Kafka-based financial transaction systems to AI-powered health applications. Passionate about the intersection of software engineering and machine learning, with long term interests in quantitative systems and computer vision. Currently seeking new grad SWE roles in backend engineering and fintech, with a strong interest in ML-adjacent systems.
 <!--
 **JRP06/jrp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
