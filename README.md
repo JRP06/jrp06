@@ -1,5 +1,5 @@
 ## Hi there 👋
-Computer Science senior at UNT graduating December 2026, focused on backend development. I build things — from Kafka-based financial transaction systems to AI-powered health applications. Currently seeking new grad SWE roles in backend engineering and fintech.
+Computer Science senior at UNT graduating December 2026, focused on backend development. I build things — from Kafka-based financial transaction systems to AI-powered health applications. Currently seeking new grad SWE roles in backend engineering.
 <!--
 **JRP06/jrp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
